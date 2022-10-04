@@ -1,4 +1,4 @@
-# Weka Feature Selection Studio
+﻿# Weka Feature Selection Studio
 ## A Feature Selection Studio plugin for Weka Explorer
 
 New graphical user interface specifically designed to perform feature selection experiments in Weka Explorer allowing parallel computation. Predicted and actual values are produced in an exportable table, along with the desired attributes values. Moreover, an exportable table of evaluation metrics are also produced, in addition to a customizable bar plot.
@@ -15,13 +15,14 @@ Idea and supervision by: **Prof. Dr. Gualberto Asencio-Cortés** (final degree t
 
 1. Open the Package Manager of Weka (Tools menu in the first window).
 2. Press the button File/URL
-3. Write this address: https://github.com/gualbe/weka-feature-selection-studio/raw/main/fs-studio.zip
+3. Write this address: https://github.com/AndresManuelCH/FS-Studio/blob/main/fs-studio.zip
 4. Press the OK button
 5. Restart Weka
 
-## User manual (in spanish)
+## User manual (in spanish and english respectivily)
 
-https://github.com/gualbe/weka-feature-selection-studio/raw/main/FS-Studio%20Manual.pdf
+https://github.com/AndresManuelCH/FS-Studio/blob/main/Manual%20de%20usuario.pdf
+https://github.com/AndresManuelCH/FS-Studio/blob/main/User%20Manual.pdf
 
 ## Screenshots
 
@@ -35,6 +36,6 @@ The Results panel:
 
 ## Contact
 
-Please contact with me at [My email](mailto:guaasecor@upo.es) if you have some comments or find some bugs.
+Please contact with me at [My email](mailto:amchamal@upo.es) if you have some comments or find some bugs.
 
 Thank you!

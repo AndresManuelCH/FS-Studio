@@ -21,8 +21,8 @@ Idea and supervision by: **Prof. Dr. Gualberto Asencio-Cortés** (final degree t
 
 ## User manual (in spanish and english respectivily)
 
-https://github.com/AndresManuelCH/FS-Studio/blob/main/Manual%20de%20usuario.pdf
-https://github.com/AndresManuelCH/FS-Studio/blob/main/User%20Manual.pdf
+https://github.com/AndresManuelCH/FS-Studio/blob/main/docs/Manual%20de%20usuario.pdf
+https://github.com/AndresManuelCH/FS-Studio/blob/main/docs/User%20Manual.pdf
 
 ## Screenshots
 

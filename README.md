@@ -5,11 +5,13 @@ New graphical user interface specifically designed to perform feature selection 
 
 Moreover, the CVOA optimization algorithm published [HERE](https://www.liebertpub.com/doi/10.1089/big.2020.0051) is also adapted in this plugin to search for attribute subsets, allowing its use along with any Weka attribute subset evaluation algorithm.
 
-Developed by: **Andrés Manuel Chacón Maldonado** (for his final degree work)
+Developed by: **Andrés Manuel Chacón Maldonado**
 
-Idea and supervision by: **Prof. Dr. Gualberto Asencio-Cortés** (final degree tutor)
+Idea and supervision by: **Prof. Dr. Gualberto Asencio-Cortés**
 
-2021 University of Pablo de Olavide. Seville, Spain
+Supervisors: **Prof. Dr. Alicia Troncoso Lora** and **Prof. Dr. Francisco Martínez Álvarez**
+
+2022 University of Pablo de Olavide. Seville, Spain
 
 ## Installation
 

@@ -15,7 +15,8 @@ Supervisors: **Prof. Dr. Alicia Troncoso Lora** and **Prof. Dr. Francisco Martí
 
 ## Installation
 
-1. Open the Package Manager of Weka (Tools menu in the first window).
+1. Install Weka from https://www.cs.waikato.ac.nz/ml/weka/
+2. Open the Package Manager of Weka (Tools menu in the first window).
 2. Press the button File/URL
 3. Write this address: https://github.com/AndresManuelCH/FS-Studio/blob/main/fs-studio.zip
 4. Press the OK button
